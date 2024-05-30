@@ -1,0 +1,24 @@
+{
+    "name": "@unistmm/uni-node-kjt2j",
+    "version": "1.0.0",
+    "description": "Convert to the text you want.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/unistmm/uni-node-kjt2j.git"
+    },
+    "keywords": [
+        "string",
+        "convert"
+    ],
+    "author": "unistmm",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/unistmm/uni-node-kjt2j/issues"
+    },
+    "homepage": "https://github.com/unistmm/uni-node-kjt2j#readme",
+    "dependencies": {
+        "@vcvckw/convstr": "^1.0.11",
+        "@unistmm/uni-node-kjt2j": "^1.0.0"
+    }
+}
